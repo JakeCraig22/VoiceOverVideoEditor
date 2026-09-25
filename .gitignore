@@ -1,0 +1,15 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+*.local
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+*.mp4
+*.mov
+*.webm
+*.wav
+*.mp3
+*.m4a
